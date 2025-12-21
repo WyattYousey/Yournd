@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Yournd](https://github.com/Yournd)
 
-- 💬 Ask me about **AI-related topics, neural nets from scratch, custom AI agents, different uses of OpenAI**
+- 💬 Ask me about **AI-related topics, React topics, neural nets from scratch, custom PC builds, custom AI agents, different uses of OpenAI, pretty much anything tech-related I love**
 
 - 📫 How to reach me **quiz.nv1@gmail.com**
 
