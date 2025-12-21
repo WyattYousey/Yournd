@@ -2,13 +2,13 @@
 <h3 align="center">A Software Engineer from Missouri, USA</h3>
 
 
-- 🔭 I’m currently working on a [Simple Tetris Game](https://yournd.github.io/se_project_tetris_game/), a simple browser game with the falling blocks we all know and love!
+- 🔭 I’m currently working on [WTWR](https://yournd.github.io/se_project_react_WTWR/), a weather app that will tell you what clothes to wear depending on the temperature outside!
 
 - 🌱 I’m currently learning **Software Engineering with TripleTen**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Yournd](https://github.com/Yournd)
 
-- 💬 Ask me about **Anything, I love to talk about and debate new concepts or even existing ones!!**
+- 💬 Ask me about **AI-related topics, neural nets from scratch, custom AI agents, different uses of OpenAI**
 
 - 📫 How to reach me **quiz.nv1@gmail.com**
 
