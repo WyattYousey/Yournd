@@ -2,7 +2,7 @@
 <h3 align="center">A Software Engineer from Missouri, USA</h3>
 
 
-- 🔭 I’m currently working on [AFRI](https://yournd.github.io/se_project_react_WTWR/), an AI Frontend Regression Inspector web app that compares two different screenshots of UI and returns a detailed analysis of all changes made!
+- 🔭 I’m currently working on [AFRI](https://github.com/Yournd/se_project_AFRI), an AI Frontend Regression Inspector web app that compares two different screenshots of UI and returns a detailed analysis of all changes made!
 
 - 🌱 I’m currently learning **Software Engineering with TripleTen**
 
